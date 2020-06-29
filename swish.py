@@ -1,3 +1,15 @@
+'''
+swish.py 
+Usage: similar to torch.nn.ReLU()...and torch.autograd.Function 
+
+# Based on: Ceshine Lee 
+https://medium.com/the-artificial-impostor/more-memory-efficient-swish-activation-function-e07c22c12a76
+
+
+# Author: Ty Nguyen
+# Contact: tynguyen.tech@gmail.com
+'''
+
 import torch
 import torch.nn as nn
 

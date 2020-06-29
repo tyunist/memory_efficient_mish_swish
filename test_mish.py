@@ -1,3 +1,11 @@
+'''
+test_mish.py 
+Test Mish() implementation
+
+# Author: Ty Nguyen
+# Contact: tynguyen.tech@gmail.com
+'''
+
 import gc
 import torch
 import torch.nn as nn
