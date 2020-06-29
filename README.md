@@ -46,7 +46,7 @@ self.conv2 = nn.Sequential(
 ## Performance
 More details on the comparison between these two activation functions can be found from their papers. 
 
-From my experiments on mono depth estimation, both of these perform on par or better then ReLU6. Mish performs slightly better then Swish and ReLU6. 
+From my experiments on mono depth estimation, both of these perform on par or better than ReLU6. Mish performs slightly better then Swish and ReLU6. 
 
 ![Performance Comparison](figures/compare.svg)
 
